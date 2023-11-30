@@ -1,0 +1,9 @@
+{
+	"name": "DF-Source",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "636ba325-210e-436f-a373-07b352e22470",
+		"tenantId": "f961e7ea-95c2-4f87-beaa-f8b306ecae61"
+	}
+}
